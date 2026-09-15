@@ -34,10 +34,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zopik-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopik-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zopik-dev&theme=tokyonight" alt="GitHub Streak" width="400" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
