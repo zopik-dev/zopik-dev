@@ -28,15 +28,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Profile Status
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E75B2&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=fff" width="100%" />
-
----
-
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitamelnik391@gmail.com)
